@@ -1,5 +1,6 @@
 In this series, I select a number of extensions every month that can make people's lives simpler and improve their productivity. I provide a detailed explanation of each extension in your [blog](https://dev.to/j471n). I began this series in April and continue to feature new extensions every month. The goal of the series is to help people discover tools that can help them work more efficiently and effectively and to provide them with the information they need to decide whether or not an extension is right for them.
 
+
 - [2022](#2022)
   - [April](#april)
   - [May](#may)
@@ -10,6 +11,8 @@ In this series, I select a number of extensions every month that can make people
   - [October](#october)
   - [November](#november)
   - [December](#december)
+- [2023](#2023)
+  - [January](#january)
 
 # 2022
 
@@ -124,5 +127,23 @@ In this series, I select a number of extensions every month that can make people
 - [Chroma](https://chrome.google.com/webstore/detail/chroma-ultimate-eyedroppe/pkgejkfioihnchalojepdkefnpejomgn)
 - [Monaco Markdown Editor For GitHub](https://chrome.google.com/webstore/detail/monaco-markdown-editor-fo/mmpbdjdnmhgkpligeniippcgfmkgkpnf?hl=en)
 - [Dopely Colors](https://chrome.google.com/webstore/detail/dopely-colors/likjnedfkpkabglldlnelmochinjpbjm?hl=en)
+
+# 2023
+
+## [January](#jan)
+
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
+- [Summarize](https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh)
+- [Flonnect](https://chrome.google.com/webstore/detail/screen-webcam-recorder-fl/lkeokcighogdliiajgbbdjibidaaeang)
+- [Hackertab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)
+- [SuperDev](https://chrome.google.com/webstore/detail/superdev-design-and-dev-t/jlkikimlceonbmfjieipbonnglnlchhl)
+- [GitHub Writer](https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap)
+- [Querio](https://chrome.google.com/webstore/detail/querio-graphql-and-xhr-re/ojealanebldmhejpndmaenfcdpengbac)
+- [Little Star](https://chrome.google.com/webstore/detail/little-star-github-stars/kmjfdonmflchjdlmeoecbmebfpnafpec)
+- [You.com](https://chrome.google.com/webstore/detail/youcom-search-chat-and-cr/fhplnehgjpmohhldfnjhibanpbiedofi)
+- [OCR text extractor](https://chrome.google.com/webstore/detail/ocr-editor-text-from-imag/ihnfmldlpdipgnliolhfffenpcmjgnif/related)
+
+
+
 
 You can check out the full series on [dev.to](https://dev.to/j471n/series/15204)
