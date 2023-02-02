@@ -130,7 +130,7 @@ In this series, I select a number of extensions every month that can make people
 
 # 2023
 
-## [January](#jan)
+## [January](https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc)
 
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Summarize](https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh)
