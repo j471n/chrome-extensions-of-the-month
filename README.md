@@ -143,6 +143,18 @@ In this series, I select a number of extensions every month that can make people
 - [You.com](https://chrome.google.com/webstore/detail/youcom-search-chat-and-cr/fhplnehgjpmohhldfnjhibanpbiedofi)
 - [OCR text extractor](https://chrome.google.com/webstore/detail/ocr-editor-text-from-imag/ihnfmldlpdipgnliolhfffenpcmjgnif/related)
 
+## [February](#)
+
+- [OSlash](https://chrome.google.com/webstore/detail/oslash-text-expander-and/gpljeioabgadbidbkcbhjjglpinfhmal)
+- [Auto Group Tabs](https://chrome.google.com/webstore/detail/auto-group-tabs/ekjmngjikhikadcbbidpfdaocifddaip)
+- [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+- [find+](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb)
+- [Gimli Tailwind](https://chrome.google.com/webstore/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl)
+- [eesel](https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono)
+- [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh?hl=en)
+- [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=en)
+- [Save image](https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd?hl=en)
+- [Awesome Screenshot and Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 
 
 
